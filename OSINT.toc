@@ -1,0 +1,11 @@
+## Interface: 11302
+## X-Min-Interface: 11302
+## Title: OSINT
+## Notes: Gathers data of nearbody characters for OSINT DB
+## Author: AlexZeDim
+## SavedVariablesPerCharacter: OSINT
+## Version: v1.0.0
+
+Panel.lua
+Osint.lua
+Frame.lua
