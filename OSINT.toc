@@ -3,7 +3,7 @@
 ## Title: OSINT
 ## Notes: Gathers data of nearbody characters for OSINT DB
 ## Author: AlexZeDim
-## SavedVariablesPerCharacter: OSINT
+## SavedVariables: OSINT
 ## Version: v1.0.0
 
 Panel.lua
