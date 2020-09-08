@@ -2,7 +2,7 @@
 ## Title: conglomerat-OSINT
 ## Notes: Gathers data of nearbody characters for OSINT DB
 ## Author: AlexZeDim
-## SavedVariables: OSINT
+## SavedVariablesPerCharacter: OSINT
 ## Version: v1.0.0
 
 Panel.lua
