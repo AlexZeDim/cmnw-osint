@@ -1,6 +1,5 @@
-## Interface: 11302
-## X-Min-Interface: 11302
-## Title: OSINT
+## Interface: 80300
+## Title: conglomerat-OSINT
 ## Notes: Gathers data of nearbody characters for OSINT DB
 ## Author: AlexZeDim
 ## SavedVariables: OSINT
