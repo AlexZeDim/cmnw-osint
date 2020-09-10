@@ -45,9 +45,10 @@ function addon:SetHostile(timestamp, guid)
                 ['sex'] = sex,
                 ['timestamp'] = timestamp,
             }
-
-            table.insert(OSINT.data, character)
-            table.insert(OSINT.csv, string.format("%s,%s", character.name, character.realm))
+            if character ~= nil then
+                table.insert(OSINT.data, character)
+                table.insert(OSINT.csv, string.format("%s,%s", character.name, character.realm))
+            end
         end
     end
 
